@@ -1,6 +1,6 @@
-# Vuely
+# Goblin
 
-> A material design vuejs admin template
+> Goblin front end
 
 ## Build Setup
 
